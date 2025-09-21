@@ -1,0 +1,5 @@
+/Users/ianarguello/Documents/221/lab3/obj/Debug/net9.0/lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ianarguello/Documents/221/lab3/obj/Debug/net9.0/lab3.AssemblyInfoInputs.cache
+/Users/ianarguello/Documents/221/lab3/obj/Debug/net9.0/lab3.AssemblyInfo.cs
+/Users/ianarguello/Documents/221/lab3/obj/Debug/net9.0/lab3.csproj.CoreCompileInputs.cache
+/Users/ianarguello/Documents/221/lab3/obj/Debug/net9.0/lab3.sourcelink.json

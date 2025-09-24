@@ -1,0 +1,15 @@
+/Users/ianarguello/Documents/221/PA2-/bin/Debug/net9.0/PA2-
+/Users/ianarguello/Documents/221/PA2-/bin/Debug/net9.0/PA2-.deps.json
+/Users/ianarguello/Documents/221/PA2-/bin/Debug/net9.0/PA2-.runtimeconfig.json
+/Users/ianarguello/Documents/221/PA2-/bin/Debug/net9.0/PA2-.dll
+/Users/ianarguello/Documents/221/PA2-/bin/Debug/net9.0/PA2-.pdb
+/Users/ianarguello/Documents/221/PA2-/obj/Debug/net9.0/PA2-.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ianarguello/Documents/221/PA2-/obj/Debug/net9.0/PA2-.AssemblyInfoInputs.cache
+/Users/ianarguello/Documents/221/PA2-/obj/Debug/net9.0/PA2-.AssemblyInfo.cs
+/Users/ianarguello/Documents/221/PA2-/obj/Debug/net9.0/PA2-.csproj.CoreCompileInputs.cache
+/Users/ianarguello/Documents/221/PA2-/obj/Debug/net9.0/PA2-.sourcelink.json
+/Users/ianarguello/Documents/221/PA2-/obj/Debug/net9.0/PA2-.dll
+/Users/ianarguello/Documents/221/PA2-/obj/Debug/net9.0/refint/PA2-.dll
+/Users/ianarguello/Documents/221/PA2-/obj/Debug/net9.0/PA2-.pdb
+/Users/ianarguello/Documents/221/PA2-/obj/Debug/net9.0/PA2-.genruntimeconfig.cache
+/Users/ianarguello/Documents/221/PA2-/obj/Debug/net9.0/ref/PA2-.dll
